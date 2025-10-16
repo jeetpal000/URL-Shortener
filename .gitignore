@@ -1,0 +1,8 @@
+# Node modules (heavy, recreate via npm install)
+node_modules/
+
+# Environment variables (secrets like PORT, DB_URL)
+.env
+
+# Runtime data (URL mappings, user-generated content)
+data/links.json

@@ -1,0 +1,17 @@
+{
+  "name": "urlexpressshortner",
+  "version": "1.0.0",
+  "description": "UrlShortnerByExpress",
+  "license": "ISC",
+  "author": "JEET_PAL",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "zod": "^4.1.12"
+  }
+}
